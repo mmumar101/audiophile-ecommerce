@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/audiophile-ecommerce/static/css/main.d3623b16.css",
-    "main.js": "/audiophile-ecommerce/static/js/main.99e35178.js",
-    "static/js/453.bf512305.chunk.js": "/audiophile-ecommerce/static/js/453.bf512305.chunk.js",
-    "static/media/image-category-page-preview.png": "/audiophile-ecommerce/static/media/image-category-page-preview.0b6ac6bd2420533d0902.png",
-    "static/media/image-hero.jpg": "/audiophile-ecommerce/static/media/image-hero.fb7f46173fa4c819c755.jpg",
-    "static/media/image-category-page.png": "/audiophile-ecommerce/static/media/image-category-page.8128a2162b28c1c16dde.png",
-    "static/media/image-speaker-zx9.png": "/audiophile-ecommerce/static/media/image-speaker-zx9.97769f2fb291eaed1868.png",
-    "static/media/image-gallery-1.jpg": "/audiophile-ecommerce/static/media/image-gallery-1.e501be74d4b484588699.jpg",
-    "static/media/image-header.jpg": "/audiophile-ecommerce/static/media/image-header.d200a3583e72c7981f46.jpg",
-    "static/media/image-speaker-zx7.jpg": "/audiophile-ecommerce/static/media/image-speaker-zx7.82dc33d645ab18cf1ac1.jpg",
-    "static/media/image-earphones-yx1.jpg": "/audiophile-ecommerce/static/media/image-earphones-yx1.48e16a44bd58ed3be41e.jpg",
-    "static/media/cart.svg": "/audiophile-ecommerce/static/media/cart.c91e8f77d2bbc6d505876f473ef7fd2c.svg",
-    "index.html": "/audiophile-ecommerce/index.html",
-    "main.d3623b16.css.map": "/audiophile-ecommerce/static/css/main.d3623b16.css.map",
-    "main.99e35178.js.map": "/audiophile-ecommerce/static/js/main.99e35178.js.map",
-    "453.bf512305.chunk.js.map": "/audiophile-ecommerce/static/js/453.bf512305.chunk.js.map"
+    "main.css": "/static/css/main.0cdc503e.css",
+    "main.js": "/static/js/main.113325ed.js",
+    "static/js/453.bf512305.chunk.js": "/static/js/453.bf512305.chunk.js",
+    "static/media/image-category-page-preview.png": "/static/media/image-category-page-preview.0b6ac6bd2420533d0902.png",
+    "static/media/image-hero.jpg": "/static/media/image-hero.fb7f46173fa4c819c755.jpg",
+    "static/media/image-category-page.png": "/static/media/image-category-page.8128a2162b28c1c16dde.png",
+    "static/media/image-speaker-zx9.png": "/static/media/image-speaker-zx9.97769f2fb291eaed1868.png",
+    "static/media/image-gallery-1.jpg": "/static/media/image-gallery-1.e501be74d4b484588699.jpg",
+    "static/media/image-header.jpg": "/static/media/image-header.d200a3583e72c7981f46.jpg",
+    "static/media/image-speaker-zx7.jpg": "/static/media/image-speaker-zx7.82dc33d645ab18cf1ac1.jpg",
+    "static/media/image-earphones-yx1.jpg": "/static/media/image-earphones-yx1.48e16a44bd58ed3be41e.jpg",
+    "static/media/cart.svg": "/static/media/cart.c91e8f77d2bbc6d505876f473ef7fd2c.svg",
+    "index.html": "/index.html",
+    "main.0cdc503e.css.map": "/static/css/main.0cdc503e.css.map",
+    "main.113325ed.js.map": "/static/js/main.113325ed.js.map",
+    "453.bf512305.chunk.js.map": "/static/js/453.bf512305.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3623b16.css",
-    "static/js/main.99e35178.js"
+    "static/css/main.0cdc503e.css",
+    "static/js/main.113325ed.js"
   ]
 }
